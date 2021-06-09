@@ -8,7 +8,7 @@
     "bowser": "^0.7.2",
     "compass": "^0.1.0",
     "compression": "^1.2.0",
-    "css-what": "^2.0.2",
+    "css-what": "^5.0.1",
     "express": "^4.17.1",
     "grunt": "^1.0.4",
     "grunt-cli": "~1.1.0",
