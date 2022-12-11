@@ -9,7 +9,7 @@
     "compass": "^0.1.0",
     "compression": "^1.2.0",
     "css-what": "^2.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "grunt": "^1.0.4",
     "grunt-cli": "~1.1.0",
     "node-gyp": "^3.0.3",
